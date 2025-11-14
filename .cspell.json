@@ -3,11 +3,13 @@
         "breno",
         "kanata",
         "libevdev",
+        "linux",
         "pkgbase",
         "pkgdesc",
         "pkgdir",
         "pkgname",
         "pkgrel",
-        "pkgver"
+        "pkgver",
+        "srcdir"
     ]
 }
